@@ -1,6 +1,6 @@
 # Ignore everything
 /*
-# But
+# But this
 !.gitignore
 !/Content
 /Content/StarterContent
